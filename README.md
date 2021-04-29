@@ -12,7 +12,7 @@ Convert the following designs to a functional front-end.
 
 ## Requirements
 1. Create the project using your preferred method for building front-end projects.
-1. Use BEM with the SCSS syntax for styling.
+1. If possible, use BEM with the SCSS syntax for styling.
 1. Make it responsive according your best judgement. The 1920px resolution of the design is a reference resolution we compare your conversion to.
 1. Create a hover effect for the image thumbnails.
 1. Create a simple custom overlay for photos.
